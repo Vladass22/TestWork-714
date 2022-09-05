@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /?author=*
+Allow: /
